@@ -1,4 +1,4 @@
-# Minimum Weight Spanning Tree
+# Kruskal's Algorithm
 
 This project is an implementation of Kruskal's Algorithm, which finds the minimum spanning tree of an undirected connected graph. It is known to be a greedy algorithm within graph theory. A spanning tree is essentially a subgraph of a graph that contains all vertices. From the subgraph we can calculate the minimum weight by adding all the weights of the edges. Below is a basic description of the flow of the program. 
 
